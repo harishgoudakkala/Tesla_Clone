@@ -1,12 +1,33 @@
 *{
   box-sizing: border-box;
   font-family: "Rubik", "sans-serif";
-  color: rgba(0, 0, 0, 0.553);
+  color: rgba(0, 0, 0, 0.854);
   margin: 0;
   padding: 0;
 
 }
 
+a{
+  text-decoration: none;
+}
+
 body{
   width: 100%;
+  overflow-x: hidden;
+}
+
+@keyframes Down {
+  0%,100% {
+    transform: translateY(0);
+  }
+
+  50%{
+    transform: translateY(5px);
+  }
+
+  25%,75%{
+    transform: translateY(3px);
+  }
+  
+
 }
