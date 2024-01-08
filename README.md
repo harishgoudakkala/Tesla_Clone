@@ -45,5 +45,3 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harishgoudakkala)](https://github.com/anuraghazra/github-readme-stats)
-
